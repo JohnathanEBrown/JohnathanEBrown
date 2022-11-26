@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Johnathan+Brown;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+## Johnathan Brown
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast+" alt="Typing SVG" /></a>
 
 ![no_caps_lock_by_asciiartwork_df9ec1j-fullview](https://user-images.githubusercontent.com/112645245/204106834-f84f060b-ab67-4b8e-8e17-67e19b0bbe56.jpg)
 
